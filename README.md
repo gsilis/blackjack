@@ -4,7 +4,7 @@ Simple version of the game, not quite done yet. No UI, JS console only.
 
 ## Installation
 
-This uses (vite)[https://vitejs.dev/] to bootstrap and run.
+This uses [vite](https://vitejs.dev/) to bootstrap and run.
 
 1. Pull down the repo.
 1. Run `npm install`.
